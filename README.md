@@ -29,7 +29,7 @@
 | 연도 | 서비스명 | 간략 소개 | 참여 부분 | 
 |---|---|---|---|
 | 2022 | <a href="https://github.com/KimDongGyun23/Linux-Programming">ATAXX</a>  |  쉘 프로그래밍을 이용한 게임 | 1인 개발 |
-| 2023 | <a href="https://github.com/KimDongGyun23/C-Programing">스도쿠</a>  |  C#을 활용한 스도쿠 게임 | 1인 개발 |
+| 2023 | <a href="https://github.com/KimDongGyun23/C-Programing">스도쿠</a>  |  C#을 활용한 스도쿠 게임 | 3인 개발 |
 | 2023 | <a href="https://github.com/KWU-ESG/esg-frontend-react">KWU-LOVESG</a>  |  ESG 지표 서비스  |  Frontend |
 | 2023 | <a href="https://github.com/KimDongGyun23/next-highway">Next-Highway</a>  |  고속도로 휴게소 정보 서비스  |  1인 개발 |
 | 2023 | <a href="https://github.com/KimDongGyun23/next-highway-zustand">Next-Highway (refactor)</a>  |  redux에서 zustand로 마이그레이션  |  1인 개발 |
