@@ -5,12 +5,12 @@
 
 [![DongGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongGyun23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=WEAR&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/WEAR))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=Dont-Do-That&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/Dont-Do-That))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=alkong-dalkong&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/alkong-dalkong))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=next-highway-zustand&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/next-highway-zustand))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=SweetBal&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/SweetBal))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=ESG-Frontend&theme=one_dark_pro)](https://[github.com/anuraghazra/github-readme-stats](https://github.com/KimDongGyun23/ESG-Frontend))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=WEAR&theme=one_dark_pro)](https://github.com/KimDongGyun23/WEAR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=Dont-Do-That&theme=one_dark_pro)](https://github.com/KimDongGyun23/Dont-Do-That)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=alkong-dalkong&theme=one_dark_pro)](https://github.com/KimDongGyun23/alkong-dalkong)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=next-highway-zustand&theme=one_dark_pro)](https://github.com/KimDongGyun23/next-highway-zustand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=SweetBal&theme=one_dark_pro)](https://github.com/KimDongGyun23/SweetBal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=ESG-Frontend&theme=one_dark_pro)](https://github.com/KimDongGyun23/ESG-Frontend)
 
 
 
@@ -34,7 +34,7 @@
 | 2023 | <a href="https://github.com/KimDongGyun23/next-highway">Next-Highway</a>  |  고속도로 휴게소 정보 서비스  |  1인 개발 |
 | 2023 | <a href="https://github.com/KimDongGyun23/next-highway-zustand">Next-Highway (refactor)</a>  |  redux에서 zustand로 마이그레이션  |  1인 개발 |
 | 2024 | <a href="https://github.com/KimDongGyun23/SweetBal">SweetBalance</a>  |  밸런스 게임  |  Design, Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
+| 2024 | <a href="https://github.com/KimDongGyun23/WEAR">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">알콩달콩</a>  |  우리 가족의 건강 관리 서비스  |  Frontend |
 
