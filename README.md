@@ -65,7 +65,7 @@
 
 <br/>
 
-#### ✔️ Etc.
+#### ✔️ ETC.
 <div>
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
