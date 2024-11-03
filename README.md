@@ -35,7 +35,7 @@
 | 2023 | <a href="https://github.com/KimDongGyun23/next-highway-zustand">Next-Highway (refactor)</a>  |  redux에서 zustand로 마이그레이션  |  1인 개발 |
 | 2024 | <a href="https://github.com/KimDongGyun23/SweetBal">SweetBalance</a>  |  밸런스 게임  |  Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/WEAR">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  Design, Frontend |
+| 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  Idea, Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">알콩달콩</a>  |  우리 가족의 건강 관리 서비스  |  Frontend |
 
 <br/>
