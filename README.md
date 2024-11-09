@@ -1,5 +1,6 @@
 ## 📒 Introduction
-📌 광운대학교 소프트웨어학부 김동균
+📌 광운대학교 소프트웨어학부 김동균<br/>
+📨 wooheuy5752@gmail.com
 
 <br />
 
