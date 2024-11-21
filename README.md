@@ -5,11 +5,11 @@
 
 [![DongGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongGyun23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=BROOM_FE&theme=one_dark_pro)](https://github.com/KimDongGyun23/BROOM_FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=WEAR&theme=one_dark_pro)](https://github.com/KimDongGyun23/WEAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=Dont-Do-That&theme=one_dark_pro)](https://github.com/KimDongGyun23/Dont-Do-That)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=alkong-dalkong&theme=one_dark_pro)](https://github.com/KimDongGyun23/alkong-dalkong)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=next-highway-zustand&theme=one_dark_pro)](https://github.com/KimDongGyun23/next-highway-zustand)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=SweetBal&theme=one_dark_pro)](https://github.com/KimDongGyun23/SweetBal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=ESG-Frontend&theme=one_dark_pro)](https://github.com/KimDongGyun23/ESG-Frontend)
 
 
@@ -22,6 +22,7 @@
 - 2024 자바스크립트 딥다이브 스터디
 - 2024 멋쟁이사자차럼 12기 아기사자 (FE)
 - 2024 멋쟁이사자처럼 프론트엔드 스터디
+- 2024 광운대학교 연합 해커톤 | 대상
 
 <br/>
 
@@ -37,6 +38,7 @@
 | 2024 | <a href="https://github.com/KimDongGyun23/WEAR">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  Idea, Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">알콩달콩</a>  |  우리 가족의 건강 관리 서비스  |  Frontend |
+| 2024 | <a href="https://github.com/kwthon-2024/Team2_FE">BROOM</a>  |  광운대학교 예비군 종합 서비스  |  Idea, Design, Frontend |
 
 <br/>
 
