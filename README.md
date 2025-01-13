@@ -5,7 +5,7 @@
 
 [![DongGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongGyun23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=BROOM_FE&theme=one_dark_pro)](https://github.com/KimDongGyun23/BROOM_FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=BROOM&theme=one_dark_pro)](https://github.com/KimDongGyun23/BROOM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=WEAR&theme=one_dark_pro)](https://github.com/KimDongGyun23/WEAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=Dont-Do-That&theme=one_dark_pro)](https://github.com/KimDongGyun23/Dont-Do-That)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=alkong-dalkong&theme=one_dark_pro)](https://github.com/KimDongGyun23/alkong-dalkong)
