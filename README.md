@@ -5,15 +5,6 @@
 
 [![DongGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongGyun23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=BROOM&theme=one_dark_pro)](https://github.com/KimDongGyun23/BROOM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=WEAR&theme=one_dark_pro)](https://github.com/KimDongGyun23/WEAR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=Dont-Do-That&theme=one_dark_pro)](https://github.com/KimDongGyun23/Dont-Do-That)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=alkong-dalkong&theme=one_dark_pro)](https://github.com/KimDongGyun23/alkong-dalkong)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=next-highway-zustand&theme=one_dark_pro)](https://github.com/KimDongGyun23/next-highway-zustand)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDongGyun23&repo=ESG-Frontend&theme=one_dark_pro)](https://github.com/KimDongGyun23/ESG-Frontend)
-
-
-
 <br/>
 
 ## 💭 Club
@@ -25,6 +16,7 @@
 - 2024 광운대학교 연합 해커톤 | 대상
 - 2025 멋쟁이사자처럼 프론트엔드 파트장
 - 2025 구름톤 유니브 4기 부대표
+- 2025 네이버부스트캠프 웹・모바일 10기
 
 <br/>
 
