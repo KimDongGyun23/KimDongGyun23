@@ -45,19 +45,13 @@
   
 | 연도 | 서비스명 | 간략 소개 | 참여 부분 | 
 |---|---|---|---|
+| 2026 | <a href="https://github.com/boostcampwm2025/web12-plum">Plum</a>  |  다양한 학습 활동과 자동 강의록 생성 기능을 갖춘 화상 강의 서비스  |  Design, Frontend |
 | 2025 | <a href="https://github.com/team-fontory/Fontory_FE">Fontory</a>  |  손글씨 폰트 제작 서비스  |  Design, Frontend |
 | 2025 | <a href="https://github.com/KimDongGyun23/Hanzipmari">한집말이</a>  |  외국인을 위한 부동산 계약 AI 솔루션  |  Frontend |
-| 2025 | <a href="https://github.com/KimDongGyun23/KwangChelin">광슐랭</a>  |  광운대학교 주변 맛집 서비스  |  Frontend |
 | 2024 | <a href="https://github.com/kwthon-2024/Team2_FE">BROOM</a>  |  광운대학교 예비군 종합 서비스  |  기획, Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">알콩달콩</a>  |  우리 가족의 건강 관리 서비스  |  기획, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  기획, Design, Frontend |
 | 2024 | <a href="https://github.com/KimDongGyun23/WEAR">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/SweetBal">SweetBalance</a>  |  밸런스 게임  |  Design, Frontend |
-| 2023 | <a href="https://github.com/KimDongGyun23/next-highway-zustand">Next-Highway (refactor)</a>  |  redux에서 zustand로 마이그레이션  |  1인 개발 |
-| 2023 | <a href="https://github.com/KimDongGyun23/next-highway">Next-Highway</a>  |  고속도로 휴게소 정보 서비스  |  1인 개발 |
-| 2023 | <a href="https://github.com/KWU-ESG/esg-frontend-react">KWU-LOVESG</a>  |  ESG 지표 서비스  |  Frontend |
-| 2023 | <a href="https://github.com/KimDongGyun23/C-Programing">스도쿠</a>  |  C#을 활용한 스도쿠 게임 | 3인 개발 |
-| 2022 | <a href="https://github.com/KimDongGyun23/Linux-Programming">ATAXX</a>  |  쉘 프로그래밍을 이용한 게임 | 1인 개발 |
 
 <br/><br />
 
