@@ -62,22 +62,22 @@
 <h4>✔️ Frontend</h2>
 <div>
   <div>
-    <img src="https://img.shields.io/badge/javascript-20232a?style=flat&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/typescript-20232a?style=flat&logo=typescript&logoColor=3178C6" />
+    <img src="https://img.shields.io/badge/JavaScript-20232a?style=flat&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-20232a?style=flat&logo=typescript&logoColor=3178C6" />
     <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-20232a?style=flat&logo=Next.js&logoColor=000000" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/reactquery-20232a?style=flat&logo=reactquery&logoColor=FF4154" />
-    <img src="https://img.shields.io/badge/recoil-20232a?style=flat&logo=recoil&logoColor=3578E5" />
-    <img src="https://img.shields.io/badge/zustand-20232a?style=flat&logo=zustand&logoColor=black" />
-    <img src="https://img.shields.io/badge/redux-20232a?style=flat&logo=redux&logoColor=764ABC" />
+    <img src="https://img.shields.io/badge/TanstackQuery-20232a?style=flat&logo=tanstack&logoColor=FF4154" />
+    <img src="https://img.shields.io/badge/Recoil-20232a?style=flat&logo=recoil&logoColor=3578E5" />
+    <img src="https://img.shields.io/badge/Zustand-20232a?style=flat&logo=zustand&logoColor=black" />
+    <img src="https://img.shields.io/badge/Redux-20232a?style=flat&logo=redux&logoColor=764ABC" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/styledcomponents-20232a?style=flat&logo=styledcomponents&logoColor=DB7093" />
-    <img src="https://img.shields.io/badge/tailwindcss-20232a?style=flat&logo=tailwindcss&logoColor=06B6D4" />
-    <img src="https://img.shields.io/badge/sass-20232a?style=flat&logo=sass&logoColor=CC6699" />
-    <img src="https://img.shields.io/badge/cssmodules-20232a?style=flat&logo=cssmodules&logoColor=CC6699" />
+    <img src="https://img.shields.io/badge/Tailwindcss-20232a?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+    <img src="https://img.shields.io/badge/Sass-20232a?style=flat&logo=sass&logoColor=CC6699" />
+    <img src="https://img.shields.io/badge/CSSModules-20232a?style=flat&logo=cssmodules&logoColor=CC6699" />
   </div>
 </div>
 
@@ -85,18 +85,18 @@
 
 <h4>✔️ Backend</h2>
 <div>
-  <img src="https://img.shields.io/badge/node.js-20232a?style=flat&logo=Node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/express-20232a?style=flat&logo=express&logoColor=000000">
+  <img src="https://img.shields.io/badge/Node.js-20232a?style=flat&logo=Node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/Express-20232a?style=flat&logo=express&logoColor=000000">
 </div>
 
 <br/>
 
 <h4>✔️ ETC.</h2>
 <div>
-  <img src="https://img.shields.io/badge/firebase-20232a?style=flat&logo=Firebase&logoColor=DD2C00" />
-  <img src="https://img.shields.io/badge/notion-20232a?style=flat&logo=Notion&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Firebase-20232a?style=flat&logo=Firebase&logoColor=DD2C00" />
+  <img src="https://img.shields.io/badge/Notion-20232a?style=flat&logo=Notion&logoColor=000000" />
   <img src="https://img.shields.io/badge/Slack-20232a?style=flat&logo=Slack&logoColor=#4A154B">
-  <img src="https://img.shields.io/badge/discord-20232a?style=flat&logo=Discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/Discord-20232a?style=flat&logo=Discord&logoColor=5865F2" />
   <img src="https://img.shields.io/badge/Postman-20232a?style=flat&logo=Postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/figma-20232a?style=flat&logo=Figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Figma-20232a?style=flat&logo=Figma&logoColor=F24E1E" />
 </div>
