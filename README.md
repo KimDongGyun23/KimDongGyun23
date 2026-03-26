@@ -1,102 +1,128 @@
-<h2 align='center'>📒 Introduction</h2>
-
-> 본인에 대해서 간략하게 설명하자면?
-
-<p>안녕하세요. 프론트엔드 개발자를 꿈꾸는 김동균입니다.</p>
-<p>현재 광운대학교 소프트웨어학부에 재학 중이며, 2025 네이버 부스트캠프 웹·모바일 10기에 참여하고 있습니다.</p>
-
-<br /><br />
-
-> 본인은 어떤 사람인가요?
-
-1. 스스로에게 끊임없이 질문하며 앞으로 나아갑니다.
-
-2. 꾸준함과 성실함을 바탕으로 문제를 해결합니다.
-
-3. 열린 대화로 해결점을 모색하며 팀과 함께 성장하는 것을 지향합니다.
-
-4. 단순 구현에 머무르지 않고, 원리를 탐구하며 성장하는 개발자가 되고 싶습니다.
-
-5. 누구에게나, 어디서든, 언제든 배우며 성장하고자 합니다.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66727a,100:4c585d&height=240&text=Loki's%20GitHub&animation=twinkling&fontColor=e5e9f1&fontSize=60" />
+</div>
 
 <br />
 
-[![DongGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongGyun23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-<br/><br />
+## 김동균 · Frontend Developer
 
-<h2 align='center'>💭 Club</h2>
+[![Blog](https://img.shields.io/badge/Blog-donggyun.life-black?style=flat-square&logoColor=white)](https://donggyun.life)
+[![Gmail](https://img.shields.io/badge/Gmail-your@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Hits](https://hits.sh/github.com/KimDongGyun23.svg?view=today-total&label=Welcome&color=aad0ff&labelColor=616161)](https://hits.sh/github.com/KimDongGyun23/)
 
-> 어떤 활동들을 해왔나요?
-
-<p>2025 네이버부스트캠프 웹・모바일 10기</p>
-<p>2025 광운대학교 소프트웨어학부 졸업작품전시회 | 장려상<p>
-<p>2025 구름톤 유니브 4기 부대표</p>
-<p>2025 멋쟁이사자처럼 프론트엔드 파트장</p>
-<p>2024 광운대학교 연합 해커톤 | 대상</p>
-<p>2024 멋쟁이사자차럼 12기 아기사자 (FE)</p>
-<p>2023 구름톤 유니브 2기 미르미 (FE)</p>
-
-<br/><br />
-
-<h2 align='center'>💻 Project</h2>
-
-> 어떤 프로젝트들을 경험했나요?
-  
-| 연도 | 서비스명 | 간략 소개 | 참여 부분 | 
-|---|---|---|---|
-| 2026 | <a href="https://github.com/boostcampwm2025/web12-plum">Plum</a>  |  다양한 학습 활동과 자동 강의록 생성 기능을 갖춘 화상 강의 서비스  |  Design, Frontend |
-| 2025 | <a href="https://github.com/team-fontory/Fontory_FE">Fontory</a>  |  손글씨 폰트 제작 서비스  |  Design, Frontend |
-| 2025 | <a href="https://github.com/KimDongGyun23/Hanzipmari">한집말이</a>  |  외국인을 위한 부동산 계약 AI 솔루션  |  Frontend |
-| 2024 | <a href="https://github.com/kwthon-2024/Team2_FE">BROOM</a>  |  광운대학교 예비군 종합 서비스  |  기획, Design, Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/alkong-dalkong">알콩달콩</a>  |  우리 가족의 건강 관리 서비스  |  기획, Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/Dont-Do-That">돈두댓</a>  |  하지말아야 할 습관 기록 서비스  |  기획, Design, Frontend |
-| 2024 | <a href="https://github.com/KimDongGyun23/WEAR">WEAR</a>  |  캠퍼스 내 기부 및 중고 거래 서비스  |  Frontend |
-
-<br/><br />
-
-<h2 align='center'>⚙️ Skill</h2>
-
-> 어떤 기술들을 사용할 수 있나요?
-
-<h4>✔️ Frontend</h2>
-<div>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-20232a?style=flat&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-20232a?style=flat&logo=typescript&logoColor=3178C6" />
-    <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-20232a?style=flat&logo=Next.js&logoColor=000000" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/TanstackQuery-20232a?style=flat&logo=tanstack&logoColor=FF4154" />
-    <img src="https://img.shields.io/badge/Recoil-20232a?style=flat&logo=recoil&logoColor=3578E5" />
-    <img src="https://img.shields.io/badge/Zustand-20232a?style=flat&logo=zustand&logoColor=black" />
-    <img src="https://img.shields.io/badge/Redux-20232a?style=flat&logo=redux&logoColor=764ABC" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/styledcomponents-20232a?style=flat&logo=styledcomponents&logoColor=DB7093" />
-    <img src="https://img.shields.io/badge/Tailwindcss-20232a?style=flat&logo=tailwindcss&logoColor=06B6D4" />
-    <img src="https://img.shields.io/badge/Sass-20232a?style=flat&logo=sass&logoColor=CC6699" />
-    <img src="https://img.shields.io/badge/CSSModules-20232a?style=flat&logo=cssmodules&logoColor=CC6699" />
-  </div>
 </div>
 
-<br/>
+<br />
 
-<h4>✔️ Backend</h2>
-<div>
-  <img src="https://img.shields.io/badge/Node.js-20232a?style=flat&logo=Node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/Express-20232a?style=flat&logo=express&logoColor=000000">
-</div>
+## 👋 About Me
 
-<br/>
+```ts
+const donggyun = {
+  name    : "김동균",
+  school  : "광운대학교 소프트웨어학부",
+  edu     : "네이버 부스트캠프 웹·모바일 10기",
+  focus   : [ "Frontend", "Architecture", "UX", "DX" ],
+  values  : [ "근거 있는 기술 선택", "사용자 중심 설계", "팀 문화 주도", "성장 추구" ],
+};
+```
 
-<h4>✔️ ETC.</h2>
-<div>
-  <img src="https://img.shields.io/badge/Firebase-20232a?style=flat&logo=Firebase&logoColor=DD2C00" />
-  <img src="https://img.shields.io/badge/Notion-20232a?style=flat&logo=Notion&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Slack-20232a?style=flat&logo=Slack&logoColor=#4A154B">
-  <img src="https://img.shields.io/badge/Discord-20232a?style=flat&logo=Discord&logoColor=5865F2" />
-  <img src="https://img.shields.io/badge/Postman-20232a?style=flat&logo=Postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Figma-20232a?style=flat&logo=Figma&logoColor=F24E1E" />
+<br />
+
+- 문제는 재현 가능한 실험으로 검증하고, 정량 지표로 트레이드오프를 판단해 설계에 반영합니다.
+
+- 기능은 사용자 관점에서 정의하고, 유저 테스트 피드백을 다음 이터레이션에 녹입니다.
+
+- 개발 과정의 불편함을 개선 기회로 보고, 직접 해결책을 찾아 만들어냅니다.
+
+- 현재는 아키텍처와 DX 개선에 관심을 두고 있으며, 코드와 문서 모두 읽히는 것을 중요하게 생각합니다.
+
+<br />
+
+---
+
+<br />
+
+## 🛠 Tech Stack
+
+#### [ Frontend ]
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+<br />
+
+#### [ Backend / Infra ]
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+<br />
+
+#### [ Tools ]
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+<br />
+
+---
+
+<br />
+
+## 🚀 Projects
+
+| 연도 | 서비스 | 설명 | 역할 |
+|------|--------|------|------|
+| 2026 | [**Plum**](https://github.com/boostcampwm2025/web12-plum) | 다양한 학습 활동과 자동 강의록 생성 기능을 갖춘 화상 강의 서비스 | 기획, Design, Frontend |
+| 2025 | [**Fontory**](https://github.com/team-fontory/Fontory_FE) | 손글씨 폰트 제작 서비스 | Design, Frontend |
+| 2025 | [**한집말이**](https://github.com/KimDongGyun23/Hanzipmari) | 외국인을 위한 부동산 계약 AI 솔루션 | Frontend |
+| 2024 | [**BROOM**](https://github.com/kwthon-2024/Team2_FE) | 광운대학교 예비군 종합 서비스 | 기획, Design, Frontend |
+| 2024 | [**알콩달콩**](https://github.com/KimDongGyun23/alkong-dalkong) | 우리 가족 건강 관리 서비스 | 기획, Frontend |
+| 2024 | [**돈두댓**](https://github.com/KimDongGyun23/Dont-Do-That) | 하지말아야 할 습관 기록 서비스 | 기획, Design, Frontend |
+| 2024 | [**WEAR**](https://github.com/KimDongGyun23/WEAR) | 캠퍼스 내 기부 및 중고 거래 서비스 | Frontend |
+
+<br />
+
+---
+
+<br />
+
+## 📌 Activities
+
+| 기간 | 활동 | 비고 |
+|------|------|------|
+| 2025 – 2026 | 네이버 부스트캠프 웹·모바일 10기 | |
+| 2025 | 광운대학교 소프트웨어학부 졸업작품전시회 | 🥉 장려상 |
+| 2025 | 멋쟁이사자처럼 대학 13기 프론트엔드 파트장 | |
+| 2025 | 구름톤 유니브 4기 부대표 | |
+| 2024 | 광운대학교 연합 해커톤 | 🥇 대상 |
+| 2024 | 멋쟁이사자처럼 대학 12기 | |
+| 2023 | 구름톤 유니브 2기 | |
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+  <p>Every friction is an opportunity · 모든 불편함은 기회다</p>
 </div>
