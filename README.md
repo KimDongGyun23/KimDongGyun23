@@ -9,7 +9,7 @@
 ## 김동균 · Frontend Developer
 
 [![Blog](https://img.shields.io/badge/Blog-donggyun.life-black?style=flat-square&logoColor=white)](https://donggyun.life)
-[![Gmail](https://img.shields.io/badge/Gmail-your@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wooheuy5752@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-wooheuy5752@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wooheuy5752@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Hits](https://hits.sh/github.com/KimDongGyun23.svg?view=today-total&label=Welcome&color=aad0ff&labelColor=616161)](https://hits.sh/github.com/KimDongGyun23/)
 
